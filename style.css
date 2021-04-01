@@ -1,0 +1,30 @@
+   *{
+    color: #169665;
+    border: solid
+   }
+   li{
+       color:#ca159d;
+       border:solid;
+       margin:20px;
+       padding:20px
+   }
+   i{
+       color:indigo;
+       border:solid;
+   }
+   a{
+       color:rgb(250, 3, 3);
+       border:dashed
+   }
+   p{
+       color:rgb(12, 12, 238);
+       border:solid
+   }
+   .origami{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   }
+   .origami:hover img{
+    opacity:0.5
+}
